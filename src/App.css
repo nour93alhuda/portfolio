@@ -4,7 +4,7 @@ body{
 }
 
 
-/* styles.css */
+/* styles.css
 .container {
     padding: 10px;
   }
@@ -13,7 +13,7 @@ body{
     .container {
       padding: 20px;
 
-    }
+    } */
     .App{
         border: 1px solid #fff;
         margin: 100px 30%;
@@ -63,5 +63,4 @@ body{
         justify-content: space-between;
         align-items: center;
     }
-  }
   
